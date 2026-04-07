@@ -59,6 +59,8 @@ The chatbot flow is built in Flowise with the following pipeline:
 7. **Conversational Retrieval QA Chain**
    - Combines retriever + LLM + memory
    - Generates accurate, context-aware answers from the document
+   - <img width="1830" height="898" alt="Screenshot 2026-04-07 121804" src="https://github.com/user-attachments/assets/f8ccbccc-02dd-4ecb-ad10-96194d64e021" />
+
 
 ---
 

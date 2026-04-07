@@ -4,20 +4,20 @@ A Retrieval-Augmented Generation (RAG) chatbot built with **Flowise** that enabl
 
 ---
 
-## 🚀 Features
+ Features
 
-- 📄 Upload and process PDF/documents
-- ✂️ Recursive text chunking for better retrieval
-- 🧠 Semantic search using Google Gemini Embeddings
-- 📦 In-Memory Vector Store for fast retrieval
-- 🤖 Response generation using Mistral AI
-- 💬 Conversational Retrieval QA Chain for contextual chat
-- 📝 Buffer Memory to maintain conversation history
-- 🔍 Accurate document-based answers using RAG architecture
+-  Upload and process PDF/documents
+- Recursive text chunking for better retrieval
+-  Semantic search using Google Gemini Embeddings
+- In-Memory Vector Store for fast retrieval
+- Response generation using Mistral AI
+- Conversational Retrieval QA Chain for contextual chat
+-  Buffer Memory to maintain conversation history
+-  Accurate document-based answers using RAG architecture
 
 ---
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 - **Flowise**
 - **Google Gemini Embeddings**
